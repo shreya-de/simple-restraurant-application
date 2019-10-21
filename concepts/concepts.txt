@@ -1,0 +1,9 @@
+1. You have successfully created a static webpage called "webpage.html"
+
+2. The problem with static page is that:
+    a) Someone needs to code it in HTML whenever he/she wants to add/delete an item
+    b) It is a file based system and no links connect that page
+
+3. Point 2.a will be solved using Python, as it will write an HTML code based on the data we give.
+
+4. Point 2.b will be solved by creating a HTTP web server that will serve the file using a URL.
