@@ -7,3 +7,8 @@
 3. Point 2.a will be solved using Python, as it will write an HTML code based on the data we give.
 
 4. Point 2.b will be solved by creating a HTTP web server that will serve the file using a URL.
+
+5. The limitaions of our solution from the problem statement are as mentioned below:
+    a) We do not have a potential database to store the items and retrieve and update the items. Currently
+       items are kept in a HTML file
+    b) There is no intercae in webpage to add new food items
